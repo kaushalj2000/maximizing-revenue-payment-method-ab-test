@@ -74,16 +74,6 @@ Ride-hailing companies want to maximize fare revenue without disrupting the user
 
 ---
 
-## 📁 Files in This Repository
-
-| File                             | Description                           |
-|----------------------------------|---------------------------------------|
-| `maximizing_revenue.ipynb`      | Main notebook with full analysis      |
-| `cleaned_yellow_tripdata_2020_01.csv` | Cleaned subset of data used         |
-| `README.md`                      | This file                             |
-
----
-
 ## 📎 License
 
 This project is for educational and portfolio purposes only. The NYC taxi dataset is publicly available.
