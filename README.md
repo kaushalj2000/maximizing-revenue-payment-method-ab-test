@@ -2,7 +2,7 @@
 
 This project investigates whether the **payment method (credit card vs. cash)** influences the **average fare revenue** for a ride-hailing company.
 
-Using **hypothesis testing**, we simulate an A/B test scenario to guide business decisions based on real-world data from January 2020 NYC yellow taxi trips.
+Using **hypothesis testing**, we simulate an A/B test scenario to guide business decisions based on real-world data from January 2020 NYC yellow taxi trips. The dataset can be found [here](https://www.kaggle.com/datasets/microize/newyork-yellow-taxi-trip-data-2020-2019).
 
 ---
 
