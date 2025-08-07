@@ -92,4 +92,4 @@ This project is for educational and portfolio purposes only. The NYC taxi datase
 
 ## 🤝 Connect
 
-Feel free to connect on [LinkedIn]((https://www.linkedin.com/in/kaushaljavangula/)) or reach out if you'd like to collaborate or discuss this project!
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/kaushaljavangula/) or reach out if you'd like to collaborate or discuss this project!
